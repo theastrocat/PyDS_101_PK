@@ -9,6 +9,10 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 * When prompted please click "Add Anaconda to my PATH environment variable"
 
 
+## Lesson 0:
+* Installing Anaconda
+* Navigating Jupyter
+
 ## Lesson 1:
 * Importing libraries
 * Declaring variables
