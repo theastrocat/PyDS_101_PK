@@ -29,4 +29,10 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 * Functions
 * Generators
 * OOP
+	* Inheritance
+* Docstrings
 
+## Lesson 3:
+* Pandas
+* Numpy
+* 
