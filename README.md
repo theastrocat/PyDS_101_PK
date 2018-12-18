@@ -8,7 +8,7 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 * Click to download and install for Windows using the installer.
 * When prompted please click "Add Anaconda to my PATH environment variable"
 
-
+# Python:
 ## Part 0:
 * VERY basic GIT
 * Installing Anaconda
@@ -35,4 +35,17 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 ## Part 3:
 * Pandas
 * Numpy
-* 
+* MatPlotLib
+
+# Data Science:
+## Part 0:
+* Web Scraping
+
+## Part 1:
+* Natural Language Processing
+
+## Part 3:
+* Clustering
+
+## Part 4:
+* TBD
