@@ -39,9 +39,15 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 
 # Data Science:
 ## Part 0:
+* Standart DS Libraries:
+	* SKLearn
+	* SciPy
+	* Requests
+	* PyODBC
+## Part 1:
 * Web Scraping
 
-## Part 1:
+## Part 2:
 * Natural Language Processing
 
 ## Part 3:
