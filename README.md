@@ -10,6 +10,7 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 
 
 ## Lesson 0:
+* VERY basic GIT
 * Installing Anaconda
 * Navigating Jupyter
 
