@@ -8,7 +8,7 @@
 ### Basic CLI GIT
 * Initializing Repository:
 	* Create a directory where you would like to store the project.
-	* Right click the directory and select "GIT GUI Here".
+	* Right click the directory and select "GIT BASH Here".
 	* type "git clone https://github.com/theastrocat/PyDS_101_PK.git"
 
 #### Some Basic BASH Syntax for CLI navigation:
@@ -23,5 +23,11 @@ Notes:
 
 ## Installing Python 3.7 with Anaconda Suite:
 * Navigate to [Anaconda download page](https://www.anaconda.com/download/)
-* Click to download and install for Windows using the installer.
-* When prompted please click "Add Anaconda to my PATH environment variable"
+* Click to download and install Python 3.7 for Windows using the installer.
+* When prompted please click "Add Anaconda to my PATH environment variable".
+
+## Launching Jupyter:
+* Right click inside the directory where this file was cloned to.
+* Click GIT BASH Here
+* Run `jupyter notebook`
+* When they Jupyter Notebook kernel GUI appears in your default web browser, click on `Part_0.ipynb`.
