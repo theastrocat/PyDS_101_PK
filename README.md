@@ -6,9 +6,9 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 # Python:
 ## Part 0:
 * VERY basic GIT
+* CLI Navigation
 * Installing Anaconda
 * Navigating Jupyter
-* Possible CLI
 
 ## Part 1:
 * Importing libraries
