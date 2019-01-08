@@ -3,14 +3,29 @@
 
 These are the basics for installing Python for Windows utilizing Anaconda Suite. This project will be targeted at bring people up to speed with the basics of Python programming while leaning toward a path toward introductory data science.
 
-# Python:
+## Useful Readings:
+[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+
+[Learn Python The Hard Way](https://learnpythonthehardway.org/python3/)
+
+# Introduction:
 ## Part 0:
+* What is Data Science?
+* CRISP-DM Process
+* How does Machine Learning Work?
+	* Random Process / Variables
+	* Error function
+	* Gradient Decent
+	* Stopping Criterion
+
+## Part 1:
 * VERY basic GIT
 * CLI Navigation
 * Installing Anaconda
 * Navigating Jupyter
 
-## Part 1:
+# Python:
+## Part 0:
 * Importing libraries
 * Declaring variables
 * Variable types
@@ -21,14 +36,12 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 	* Dictionaries
 * Loops
 
-## Part 2:
+## Part 1:
 * Functions
 * Generators
-* OOP
-	* Inheritance
 * Docstrings
 
-## Part 3:
+## Part 2:
 * Pandas
 * Numpy
 * MatPlotLib
