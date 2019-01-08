@@ -14,8 +14,8 @@ These are the basics for installing Python for Windows utilizing Anaconda Suite.
 * CRISP-DM Process
 * How does Machine Learning Work?
 	* Random Process / Variables
-	* Error function
-	* Gradient Decent
+	* Error Function
+	* Gradient Descent
 	* Stopping Criterion
 
 ## Part 1:
