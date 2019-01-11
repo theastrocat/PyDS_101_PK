@@ -1,7 +1,6 @@
-# Python 101
-## This is a repo for my Python 101 course for PK use.
+# Data Science with Python 101
 
-These are the basics for installing Python for Windows utilizing Anaconda Suite. This project will be targeted at bring people up to speed with the basics of Python programming while leaning toward a path toward introductory data science.
+This is meant to be an introductory course in Data Science and Python Machine Learning for ProKarma's internal use.
 
 ## Useful Readings:
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
