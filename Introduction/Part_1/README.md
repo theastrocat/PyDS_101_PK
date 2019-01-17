@@ -1,4 +1,4 @@
-# Part 0
+# Part 1
 
 ## Basic GIT:
 ### Installing GIT For Windows:
