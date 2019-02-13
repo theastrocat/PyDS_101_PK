@@ -13,10 +13,15 @@
 
 #### Some Basic BASH Syntax for CLI navigation:
 `pwd` : Print Working Directory -- Where you currently are in the windows file system.
+
 `ls` : List Directory -- Lists files and sub-folders in your current directory.
+
 `cd` : Change Directory -- Allows you to step into a directory.
+
 > For instance: I can do `cd ..` to step UP one directory from the path displayed in `pwd`
+
 > Or `cd New\ Dir` to step into my directory called "New Dir"
+
 Notes:
 * Tab auto-complete is your friend.
 * All spaces need to be *escaped* with `\`
